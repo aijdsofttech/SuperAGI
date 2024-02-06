@@ -1,0 +1,3 @@
+docker gpu bug
+
+https://stackoverflow.com/questions/75118992/docker-error-response-from-daemon-could-not-select-device-driver-with-capab
