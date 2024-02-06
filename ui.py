@@ -5,7 +5,7 @@ from time import sleep
 import shutil
 from sys import platform
 from superagi.lib.logger import logger
-
+print()
 def check_command(command, message):
     if not shutil.which(command):
         logger.info(message)
